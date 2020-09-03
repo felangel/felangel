@@ -12,6 +12,7 @@ I'm a software engineer at [Very Good Ventures](https://verygood.ventures) in Ch
 ### Open Source Projects
 
 [![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=bloc)](https://github.com/felangel/bloc)
+[![Bloc.js](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=bloc.js)](https://github.com/felangel/bloc.js)
 [![Equatable](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=equatable)](https://github.com/felangel/equatable)
 [![Fresh](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=fresh)](https://github.com/felangel/fresh)
 
