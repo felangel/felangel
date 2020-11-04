@@ -15,6 +15,8 @@ I'm a software engineer at [Very Good Ventures](https://verygood.ventures) in Ch
 [![Bloc.js](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=bloc.js)](https://github.com/felangel/bloc.js)
 [![Equatable](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=equatable)](https://github.com/felangel/equatable)
 [![Fresh](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=fresh)](https://github.com/felangel/fresh)
+[![FlowBuilder](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=flow_builder)](https://github.com/felangel/flow_builder)
+[![InheritedStream](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=inherited_stream)](https://github.com/felangel/inherited_stream)
 
 ### Github Stats
 
