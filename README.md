@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm a software engineer at [Very Good Ventures](https://verygood.ventures) in Chicago, IL 🌆
+I'm a software engineer at [Shorebird](https://shorebird.dev) in Chicago, IL 🌆
 
-- 🔭 I’m currently working on the [bloc library](https://bloclibrary.dev)
+- 🧱 I’m currently working on [BrickHub](https://brickhub.dev)
+- 🔭 I maintain the [bloc library](https://bloclibrary.dev)
 - ☕ I’m learning how to make latte art
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
@@ -14,9 +15,9 @@ I'm a software engineer at [Very Good Ventures](https://verygood.ventures) in Ch
 [![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=bloc)](https://github.com/felangel/bloc)
 [![Bloc.js](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=bloc.js)](https://github.com/felangel/bloc.js)
 [![Equatable](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=equatable)](https://github.com/felangel/equatable)
-[![Fresh](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=fresh)](https://github.com/felangel/fresh)
-[![FlowBuilder](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=flow_builder)](https://github.com/felangel/flow_builder)
+[![Mason](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=mason)](https://github.com/felangel/mason)
 [![Mocktail](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=mocktail)](https://github.com/felangel/mocktail)
+[![FlowBuilder](https://github-readme-stats.vercel.app/api/pin/?username=felangel&repo=flow_builder)](https://github.com/felangel/flow_builder)
 
 ### Github Stats
 
